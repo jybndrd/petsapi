@@ -10,7 +10,7 @@ an API to manage owners and pets
 - [H2](https://www.h2database.com/html/main.html) - File based data based configuration
 
 ### Getting started
-I created this repository since I was not satisfied with the work I presented via Codility and to be honest I am now rusty with the version of Spring that was used (2.0.5). I created this app using a newer version of Spring. Although this is a different version, I am enthusiastic to learn the Spring framework that the team will be using. Please kindly reconsider this. I am also available to show a demo of this application if its necessary.
+I created this repository since I was not satisfied with the work I presented via Codility and to be honest I am now rusty with the version of Spring that was used (2.0.5). I created this app using a newer version of Spring. Although this is a different version, I am enthusiastic to polish up my knowledge based from the Spring framework that the team will be using (Using my personal time). Please kindly reconsider this. I am also available to show a demo of this application if its necessary.
 
 With this, please clone this project into your local machine and let's make sure that everything is set up before going into details.
 Here are also some of the features that i've included in this app:
